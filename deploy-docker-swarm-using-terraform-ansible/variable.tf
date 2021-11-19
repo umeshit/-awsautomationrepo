@@ -23,3 +23,4 @@ variable "bootstrap_path" {
   description = "Script to install Docker Engine"
   default = "install_docker_machine_compose.sh"
 }
+IT
